@@ -3,7 +3,7 @@ Lin Jinghao
 
 ----
 
->  Specialities & Interests: Machine Learning, Data mining, C, C++, Java
+>  Specialities: Machine Learning, Data mining, C, C++, Java
 
 >  Email: fenixlin@yandex.com or fenixl@163.com
 
@@ -86,7 +86,7 @@ Very Familiar
 Familiar
 :   HTML, CSS, Python, Pascal, Matlab, MySQL, Shell, Hadoop, UNIX/Linux, awk, CodeIgniter, QT
 
-Limited Experience
+Experienced
 :   Javascript, Scala, R
 
 Language
