@@ -3,8 +3,11 @@ Lin Jinghao
 
 ----
 
->  Specialities: Machine Learning, C, C++, Java
->  Bachelor in Software Engineering
+>  Specialities & Interests: Machine Learning, Data mining, C, C++, Java
+
+>  Email: fenixlin@yandex.com or fenixl@163.com
+
+>  Blog: http://fenixlin.github.io
 
 ----
 
@@ -12,10 +15,10 @@ Coperate Experience
 --------------------
 
 2014 (5 months)
-:   *Internship at [Baidu](http://www.baidu.com/)*
+:   *Internship at Electronic Commerce Department, [Baidu](http://www.baidu.com/)*
     (Beijing, China).
 
-    Co-researched applying cutting-edge gaussian process based machine learning algorithms in Baidu's advertising system.
+    Co-researched applying cutting-edge gaussian process based machine learning algorithms to Baidu's advertising system, training better parameters to acquire pareto optimality considering revenue and qualities.
 
 Education
 --------------------
@@ -24,12 +27,70 @@ Education
 :   *MS in Computer Science in Zhejiang University* (Hangzhou, China).
 
 2011.9-2015.7
-:   *Beng in Software Engineering in Zhejiang University* (Hangzhou, China).
+:   *Beng in Software Engineering in Zhejiang University* (Hangzhou, China), with High Honors.
+
+    GPA 4.4/5, ranking 2/72, with grade A in about 2/3 major courses.
 
 Projects
 --------------------
 
+2013.9-2014.1
+:   *Software Engineering Education System* (website)
 
+    Leading 5 men's team, built with CodeIgniter and LAMP framework, hosted in AWS EC2, about 8,000 lines.
+
+2013.9-2013.11
+:   *MiniSQL database* (CLI program)
+
+    A mini database project written in C++, assisted by 2 classmates, about 7,000 lines.
+
+2013.9-2013.11
+:   *ADIF Editor* (desktop software)
+
+    An editor for ADIF format as "XML format in radio", written in JAVA,  about 2,000 lines.
+
+2012.3-2012.6
+:   *Battle City Revial* (CLI game)
+
+    Classical "Battle City" with some new ideas, written in C, about 4,000 lines.
+
+    2 more project around 2,000 lines are omitted here.
+
+Awards and Accomplishments
+--------------------
+
+2014
+:   1st Prize in the ACM Contest in Zhejiang University.
+
+2014
+:   2st Prize in the ACM Contest in Zhejiang Province.
+
+2014
+:   100/100 in [Programming Ability Test](http://www.patest.cn/) of Zhejiang Univesity.
+
+2013-2014
+:   1st Prize Scholarship in Zhejiang University.
+
+2012-2013
+:   2nd Prize Scholarship in Zhejiang University.
+
+2011-2013
+:   1st Prize in C contest in Zhejiang University for three consecutive years.
+
+Skills
+--------------------
+
+Used Professionally
+: C, C++, Java, Verilog
+
+Familar
+: HTML, CSS, Python, Pascal, Matlab, MySQL, Shell, Hadoop, UNIX/Linux, awk, CodeIgniter, QT
+
+Limited Experience
+: Javascript, Scala, R
+
+Language
+: Chinese, Cantonese, English
 
 Activities and Interests
 --------------------
