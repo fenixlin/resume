@@ -14,7 +14,7 @@ Lin Jinghao
 Coperate Experience
 --------------------
 
-2014 (5 months)
+2014.9-2015.1
 :   *Internship at Electronic Commerce Department, [Baidu](http://www.baidu.com/)*
     (Beijing, China).
 
@@ -54,7 +54,7 @@ Projects
 
     Classical "Battle City" with some new ideas, written in C, about 4,000 lines.
 
-    2 more project around 2,000 lines are omitted here.
+    2 more projects around 2,000 lines are omitted here.
 
 Awards and Accomplishments
 --------------------
@@ -66,7 +66,7 @@ Awards and Accomplishments
 :   2st Prize in the ACM Contest in Zhejiang Province.
 
 2014
-:   100/100 in [Programming Ability Test](http://www.patest.cn/) of Zhejiang Univesity.
+:   Scored 100/100 in [Programming Ability Test](http://www.patest.cn/) of Zhejiang Univesity.
 
 2013-2014
 :   1st Prize Scholarship in Zhejiang University.
@@ -96,7 +96,7 @@ Activities and Interests
 --------------------
 
 Hobbies
-:   Jogging, Billiard, Chess, Table Football, Swimming, Basketball
+:   Jogging, Billiard, Chess, Table Football, Swimming, Basketball, Tennis, Badminton, Dart, Skating, Culinary, ...
 
 Activities
-:   I was the vice secretary of Human Resource Department of Yunfeng Student Union (100+ members) during university. I've finished the Handzhou Marathon in 2012.
+:   I was the vice secretary of Human Resource Department of Yunfeng Student Union (100+ members) during university. I've completed the Handzhou Marathon in 2012.
